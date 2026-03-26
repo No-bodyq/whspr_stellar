@@ -55,3 +55,6 @@ contracts/scripts/__pycache__/
 !contracts/.env.local
 !contracts/.env.testnet
 !contracts/.env.mainnet
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
